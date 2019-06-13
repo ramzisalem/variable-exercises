@@ -2,6 +2,8 @@
 
 These exercises ask you to reassign variables so that at each step of execution the variables spell out the next word in a sentence.  
 
+You'll have to practice looking ahead of and behind the line you are writing to strategize how you will store and reuse data from earlier in your program.  This is one of the fundamental challenges in development.
+
 They're just like the [sentences without temps](./3-sentences-without-temps.md) exercises, but with a couple extra variables like you saw in [swaps](./1-swaps.md).  Pay attention to how your planning and solution changes when you can save values for later
 
 See how few reassignments you can use per step!
