@@ -2,6 +2,8 @@
 
 These exercises ask you to reassign variables so that at each step of execution the variables spell out the next word in a sentence.  See how few reassignments you can use per step!
 
+You'll have to practice looking ahead of and behind the line you are writing to strategize how you will store and reuse data from earlier in your program.  This is one of the fundamental challenges in development.
+
 
 ### example solutions: 
 1. the toad reads me: [pytut](https://goo.gl/pmpkJZ), [parsons](https://janke-learning.github.io/parsonizer/?snippet=%2F%2F%20the%20toad%20reads%20me%0Alet%20_1%20%3D%20%22%20%22%2C%20_2%20%3D%20%22%20%22%2C%20_3%20%3D%20%22%20%22%2C%20_4%20%3D%20%22%20%22%2C%20_5%20%3D%20%22%20%22%3B%0A%2F%2F%20the%0A_1%20%3D%20%22t%22%2C%20_2%20%3D%20%22h%22%2C%20_3%20%3D%20%22e%22%3B%0A%2F%2F%20toad%0A_2%20%3D%20%22o%22%2C%20_3%20%3D%20%22a%22%2C%20_4%20%3D%20%22d%22%3B%0A%2F%2F%20reads%0A_1%20%3D%20%22r%22%2C%20_2%20%3D%20%22e%22%2C%20_5%20%3D%20%22s%22%3B%0A%2F%2F%20me%0A_1%20%3D%20%22m%22%2C%20_3%20%3D%20%22%20%22%2C%20_4%20%3D%20%22%20%22%2C%20_5%20%3D%20%22%20%22%3B)
