@@ -12,10 +12,22 @@ You'll have to practice looking ahead of and behind the line you are writing to 
 1. if fir trees ever fall: [pytut](https://goo.gl/tdJQwW), [parsons](https://janke-learning.github.io/parsonizer/?snippet=%2F%2F%20if%20fir%20trees%20ever%20fall%0A%0Alet%20_1%20%3D%20'%20'%2C%20_2%20%3D%20'%20'%2C%20_3%20%3D%20'%20'%2C%20_4%20%3D%20'%20'%2C%20_5%20%3D%20'%20'%3B%0A%0A%2F%2F%20if%0A_1%20%3D%20'i'%2C%20_2%20%3D%20'f'%3B%0A%2F%2F%20fir%0A_1%20%3D%20_2%2C%20_2%20%3D%20'i'%2C%20_3%20%3D%20'r'%3B%0A%2F%2F%20trees%0A_1%20%3D%20't'%2C%20_2%20%3D%20_3%2C%20_3%20%3D%20'e'%2C%20_4%20%3D%20_3%2C%20_5%20%3D%20's'%3B%0A%2F%2F%20ever%0A_1%20%3D%20_3%2C%20_2%20%3D%20'v'%2C%20_4%20%3D%20'r'%2C%20_5%20%3D%20'r'%3B%0A%2F%2F%20fall%0A_1%20%3D%20'f'%2C%20_2%20%3D%20'a'%2C%20_3%20%3D%20'l'%2C%20_4%20%3D%20_3%2C%20_5%20%3D%20'%20'%3B)
 
 ### challenges: 
-1. [the toad reads me](https://goo.gl/imKwgj) 
+1. [the toad reads me](https://goo.gl/imKwgj)  
+```js
+
+```  
 1. [eating meat every meal](https://goo.gl/cwZijk)
+```js
+
+```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
+```js
+
+```  
 1. [if fir trees ever fall](https://goo.gl/8y5Lh2)
+```js
+
+```  
 
 
 
